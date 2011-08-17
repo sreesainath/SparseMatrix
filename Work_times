@@ -35,3 +35,6 @@ August 2011
 
 15 August 
 01.30 - 02.00                       Research on cython linking and testing from home computer. The cython update doesnt seem to be working anymore. 
+
+17 August
+16.30 - 18.40                       Linking functions from Sparse_matrix.h. Linked and tested Sparse matrix with functions mean,min, max, sort, square etc.

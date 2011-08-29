@@ -1,0 +1,4 @@
+testsparse/build
+testsparse/wrapper.cpp
+*.pyc
+
